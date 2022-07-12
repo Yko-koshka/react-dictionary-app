@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import Dictionary from "./Dictionary";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
+      <main>
+        <Dictionary />
+      </main>
     </div>
   );
 }
