@@ -5,11 +5,10 @@ import "./Dictionary.css";
 
 function Dictionary() {
   const [keyword, setKeyword] = useState("");
-  const [results, setResult] = useState(null);
+  const [results, setResults] = useState(null);
 
   function handleResponse(response) {
-    console.log(response.data[0]);
-    setResult(response.data[0]);
+    setResults(response.data[0]);
   }
 
   function search(event) {
