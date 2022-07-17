@@ -1,0 +1,11 @@
+.Meaning {
+  background-color: #f8f1e7;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 2px 3px 16px #00000012;
+}
+
+.Meaning .meaning-example {
+  color: #00000085;
+}

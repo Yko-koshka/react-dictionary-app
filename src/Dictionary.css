@@ -1,0 +1,24 @@
+.Dictionary .dictionary-section {
+  background-color: #c71c40;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 0 25% 10%;
+}
+
+.Dictionary .dictionary-input {
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 30px;
+}
+
+.Dictionary .dictionary-subtitle {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.Dictionary .hint {
+  padding-bottom: 60px;
+}

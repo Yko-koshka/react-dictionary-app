@@ -1,0 +1,16 @@
+.Phonetics .phonetics-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px 30px;
+  border: 2px solid #00daf5;
+  color: #00daf5;
+  border-radius: 50px;
+  margin: 0 15px 20px 0;
+  transition: 0.2s ease-in-out;
+}
+
+.Phonetics .phonetics-btn:hover {
+  border: 2px solid #000;
+  color: #000;
+}

@@ -7,9 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1 className="logo-text">Dictionary</h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="sunrise" />
       </main>
     </div>
   );

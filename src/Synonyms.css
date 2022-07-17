@@ -1,0 +1,12 @@
+.Synonyms {
+  margin: 30px 0;
+}
+
+.synonyms-lists {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-style: italic;
+  padding: 0;
+}

@@ -1,0 +1,10 @@
+.Result {
+  padding: 15px;
+}
+
+.Result .result-subtitle {
+  text-align: center;
+  font-size: 47px;
+  margin: 0;
+  padding-bottom: 25px;
+}
