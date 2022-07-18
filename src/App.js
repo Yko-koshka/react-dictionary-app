@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import Dictionary from "./Dictionary";
+import OpenSource from "./OpenSource";
 import "./App.css";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       </header>
       <main>
         <Dictionary defaultKeyword="sunrise" />
+        <OpenSource />
       </main>
     </div>
   );
